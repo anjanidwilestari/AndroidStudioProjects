@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pertemuan3</string>
+    <string-array name="prodiarray">
+        <item>D4 Teknik Informatika</item>
+        <item>D4 Sistem Informasi Bisnis</item>
+    </string-array>
+</resources>
